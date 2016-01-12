@@ -1,0 +1,13 @@
+.term {
+  border-radius: 10px;
+  background-color: yellow;
+}
+
+.definition {
+  border-radius: 10px;
+  background-color: blue;
+  color: white;
+  display: none;
+
+
+}
