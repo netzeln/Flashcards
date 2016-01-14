@@ -6,6 +6,7 @@ $(document).ready(function(){
 
   $("div").click(function() {
       $("#JavaScript").toggle();
+      $("#JavaScriptDef").toggle();
 
   });
 
@@ -16,7 +17,7 @@ $(document).ready(function(){
       $("#Operators").toggle();
       $("#Nan").toggle();
       $("#Variable Naming Conventions").toggle();
-      $("#+=").toggle();
+      $("#PlusEquals").toggle();
       $("#Function").toggle();
       $("#Method").toggle();
       $("#Argument to Method").toggle();

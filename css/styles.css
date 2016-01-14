@@ -9,5 +9,50 @@
   color: white;
   display: none;
 
+}
 
+#JavaScript,
+#Modulo,
+#Operators,
+#Nan,
+#VariableNamingConventions,
+#PlusEquals,
+#Function,
+#Method,
+#ArgumenttoMethod,
+#String,
+#ChainingMethods,
+#Escape,
+#Alert,
+#CommentingCode,
+#Boolean,
+#Undefined,
+#Parameter,
+#Return, {
+  border-radius: 10px;
+  background-color: yellow;
+}
+
+#JavaScriptDef,
+#ModuloDef,
+#OperatorsDef,
+#NanDef,
+#VariableNamingConventionsDef,
+#PlusEqualsDef,
+#FunctionDef,
+#MethodDef,
+#ArgumenttoMethodDef,
+#StringDef,
+#ChainingMethodsDef,
+#EscapeDef,
+#AlertDef,
+#CommentingCodeDef,
+#BooleanDef,
+#UndefinedDef,
+#ParameterDef,
+#ReturnDef, {
+  border-radius: 10px;
+  background-color: blue;
+  color: white;
+  display: none;
 }
